@@ -6,7 +6,6 @@
 //  Copyright © 2020 KimJunsik. All rights reserved.
 //
 
-// 다시 풀기
 #include <iostream>
 using namespace std;
 long long ans[10];
