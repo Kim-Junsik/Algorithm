@@ -2,13 +2,12 @@
 //  2003_수들의합2.cpp
 //  Virtual_Coding_Test
 //
-//  Created by KimJunsik on 2020/08/19.
+//  Created by KimJunsik on 2020/08/25.
 //  Copyright © 2020 KimJunsik. All rights reserved.
 //
 
 #include <iostream>
 #include <vector>
-#include <algorithm>
 using namespace std;
 
 int main()
